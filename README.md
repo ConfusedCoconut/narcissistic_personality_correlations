@@ -3,7 +3,7 @@ Looking at the chi squared values for different combinations of qualities in an 
 
 Dataset Information:
 
-influence: yes = I have a natural talent for influencing people; no = I am not good at influencing people.\\
+influence: yes = I have a natural talent for influencing people; no = I am not good at influencing people.<br>
 blend_in: yes = I prefer to blend in with the crowd; no = I like to be the center of attention.\\
 special: yes = I think I am a special person; no = I am no better or worse than most people.\\
 leader: yes = I see myself as a good leader; no = I am not sure if I would make a good leader.\\
